@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Danilo de Souza Miguel
 
+=======
+Danilo de Souza Miguel
+Ricardo Souza
+>>>>>>> 1c1ace4 (Adicionado nome ao arquivo)
