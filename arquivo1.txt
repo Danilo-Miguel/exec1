@@ -1,12 +1,26 @@
 
+<<<<<<< HEAD
 Danilo de Souza Miguel
 Beto
 =======
 ok
 ok--Danilo de Souza Miguel
 =======
+=======
+
+Danilo de Souza Miguel
+Kaique Matheus
+ok
+ok--Danilo de Souza Miguel
+>>>>>>> 6aaa78a59fea98e4c3a1859f3a150b8e033ce414
 
 Danilo
 Danilo de Souza 
 Danilo de Souza Miguel
 Ramon Andrade Sousa Carvalho
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 6aaa78a59fea98e4c3a1859f3a150b8e033ce414
