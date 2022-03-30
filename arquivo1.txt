@@ -1,8 +1,12 @@
-<<<<<<< HEAD
+
 Danilo de Souza Miguel
 Beto
 =======
 ok
 ok--Danilo de Souza Miguel
+=======
 
->>>>>>> 055a7f9c462fbb06c262302295f4246053fdaca8
+Danilo
+Danilo de Souza 
+Danilo de Souza Miguel
+Ramon Andrade Sousa Carvalho
